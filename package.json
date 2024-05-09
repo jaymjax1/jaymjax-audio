@@ -1,6 +1,6 @@
 {
   "name": "jaymjax-audio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Native library for managing audio",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
